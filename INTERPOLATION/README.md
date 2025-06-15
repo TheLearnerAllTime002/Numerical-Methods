@@ -89,6 +89,3 @@ interpolation/
 
 1. Burden & Faires, "Numerical Analysis" (9th Ed.)
 2. Stoer & Bulirsch, "Introduction to Numerical Analysis"
-
-```
-
