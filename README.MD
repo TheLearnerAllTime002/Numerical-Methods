@@ -1,4 +1,4 @@
-
+ÿþ
 <!-- TITLE -->
 # ðŸ”¢ Numerical Methods in Programming (NMP)
 
@@ -72,7 +72,7 @@ graph LR
 
 ## ðŸ“œ License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSEfile for details.
 
 ---
 
