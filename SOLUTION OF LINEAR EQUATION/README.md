@@ -98,6 +98,3 @@ $$
 2. Trefethen & Bau (1997), *Numerical Linear Algebra*
 3. Saad (2003), *Iterative Methods for Sparse Linear Systems*
 
-<div align="center">
-  <img src="https://render.githubusercontent.com/render/math?math=\color{blue}\boxed{Ax=b\ \Rightarrow\ x=A^{-1}b}" alt="Linear Equation Solution">
-</div>
