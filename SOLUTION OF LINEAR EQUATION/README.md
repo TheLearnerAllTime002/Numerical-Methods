@@ -10,8 +10,8 @@
   <img src="https://img.shields.io/badge/License-MIT-success" alt="License">
 </div>
 
-## 📚 Implemented Algorithms
 
+<<<<<<< HEAD
 ### 1. Gaussian Elimination with Partial Pivoting
 ```math
 \text{Direct method transforming matrix to upper triangular form:}
@@ -46,6 +46,9 @@ $$
 - Early termination on convergence
 - Diagonal dominance check
 
+=======
+
+>>>>>>> 78c9d176e45cb833c44370e609c001fcb7eef8bf
 **Files:**  
 `GAUSS_SEIDAL.C` | `GAUSS_SEIDAL_INTERMEDIATE.C` | `GAUSS_SEIDAL_ADVANCED.C`
 
