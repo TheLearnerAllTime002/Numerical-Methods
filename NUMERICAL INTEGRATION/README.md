@@ -116,8 +116,4 @@ where $w_i$ are weights and $x_i$ are nodes. The methods differ in:
 
 1. Press et al., "Numerical Recipes" (3rd Ed.)
 2. Davis & Rabinowitz, "Methods of Numerical Integration"
-3. [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
 
-<div align="center">
-  <img src="https://render.githubusercontent.com/render/math?math=\color{blue}\boxed{\text{Precision\ =\ Power}}" alt="Precision = Power">
-</div>
