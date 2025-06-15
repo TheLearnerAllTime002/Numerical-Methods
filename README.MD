@@ -1,11 +1,11 @@
 # 🔢 Numerical Methods in Programming (NMP)
 
-> 📚 A structured and practical collection of C programs implementing core numerical methods — from **Beginner to Advanced** levels — ideal for students, educators, and coders looking to understand the fundamentals of numerical computation.
+> 📚 A structured and practical collection of C programs implementing core numerical methods — from **Beginner to Advanced** levels — ideal for students, educators, and coders learning numerical computation.
 
 ---
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/TheLearnerAllTime002/NMP?style=for-the-badge)
-![Top language](https://img.shields.io/github/languages/top//NMP?style=for-the-badge)
+![Top language](https://img.shields.io/github/languages/top/TheLearnerAllTime002/NMP?style=for-the-badge)
 ![Last commit](https://img.shields.io/github/last-commit/TheLearnerAllTime002/NMP?style=for-the-badge)
 ![License](https://img.shields.io/github/license/TheLearnerAllTime002/NMP?style=for-the-badge)
 
@@ -13,58 +13,58 @@
 
 ## 📁 Project Structure
 
+```text
 NMP/
 ├── BISECTION/
-│ ├── BISECTION_BEGINNER.C
-│ └── BISECTION_INTERMEDIATE.C
+│   ├── BISECTION_BEGINNER.C
+│   └── BISECTION_INTERMEDIATE.C
 ├── LAGRANGES/
-│ ├── LAGRANGES_BEG.C
-│ └── LAGRANGES_BEG.exe
+│   ├── LAGRANGES_BEG.C
+│   └── LAGRANGES_BEG.exe
 ├── NEWTON BACKWARD INTERPOLATION/
-│ ├── NB_BEGINNER.C
-│ ├── NB_BEGINNER.exe
-│ ├── NB_INTERMEDIATE.C
-│ └── NB_INTERMEDIATE.exe
+│   ├── NB_BEGINNER.C
+│   ├── NB_BEGINNER.exe
+│   ├── NB_INTERMEDIATE.C
+│   └── NB_INTERMEDIATE.exe
 ├── NEWTON FORWARD INTERPOLATION/
-│ ├── NF_BEGINNER.C
-│ ├── NF_BEGINNER.exe
-│ ├── NR_INTERMEDIATE.C
-│ └── NR_INTERMEDIATE.exe
+│   ├── NF_BEGINNER.C
+│   ├── NF_BEGINNER.exe
+│   ├── NR_INTERMEDIATE.C
+│   └── NR_INTERMEDIATE.exe
 ├── NEWTON_RAPHSON/
-│ ├── NR_IG_BEG.C
-│ ├── NR_INTERVAL_ADV.C
-│ ├── NR_INTERVAL_BEG.C
-│ ├── NR_INTERVAL_BEG.exe
-│ └── NR_INTERVAL_INTERMEDIATE.C
+│   ├── NR_IG_BEG.C
+│   ├── NR_INTERVAL_ADV.C
+│   ├── NR_INTERVAL_BEG.C
+│   └── NR_INTERVAL_INTERMEDIATE.C
 ├── REGULA FALSI/
-│ ├── REGULA_FALSI_BEGINNER.C
-│ ├── REGULA_FALSI_BEGINNER.exe
-│ └── REGULA_FALSI_INTERMEDIATE.C
+│   ├── REGULA_FALSI_BEGINNER.C
+│   ├── REGULA_FALSI_BEGINNER.exe
+│   └── REGULA_FALSI_INTERMEDIATE.C
 ├── SIMPSON_1_3TH RULE/
-│ ├── SIMP_1_3_INTERMEDIATE.C
-│ └── SIMP_1_3_INTERMEDIATE.exe
+│   ├── SIMP_1_3_INTERMEDIATE.C
+│   └── SIMP_1_3_INTERMEDIATE.exe
 ├── SOLUTION OF LINEAR EQUATION/
-│ ├── GAUSS_ELIMINATION_ADV.C
-│ ├── GAUSS_ELIMINATION_BEG.C
-│ ├── GAUSS_ELIMINATION_BEG.exe
-│ ├── GAUSS_SEIDAL_ADVANCED.C
-│ ├── GAUSS_SEIDAL_INTERMEDIATE.C
-│ ├── GAUSS_SEIDAL.C
-│ └── GAUSS_SEIDAL.exe
+│   ├── GAUSS_ELIMINATION_ADV.C
+│   ├── GAUSS_ELIMINATION_BEG.C
+│   ├── GAUSS_ELIMINATION_BEG.exe
+│   ├── GAUSS_SEIDAL_ADVANCED.C
+│   ├── GAUSS_SEIDAL_INTERMEDIATE.C
+│   ├── GAUSS_SEIDAL.C
+│   └── GAUSS_SEIDAL.exe
 ├── TRAPEZOIDAL METHOD/
-│ ├── TRAPEZOIDAL_BEGINNER.C
-│ ├── TRAPEZOIDAL_BEGINNER.exe
-│ ├── TRAPEZOIDAL_INTERMEDIATE.C
-│ └── TRAPEZOIDAL_INTERMEDIATE.exe
+│   ├── TRAPEZOIDAL_BEGINNER.C
+│   ├── TRAPEZOIDAL_BEGINNER.exe
+│   ├── TRAPEZOIDAL_INTERMEDIATE.C
+│   └── TRAPEZOIDAL_INTERMEDIATE.exe
 ├── WEEDLE'S RULE/
-│ ├── WEEDLE_BEGINNER.C
-│ ├── WEEDLE_BEGINNER.exe
-│ ├── WEEDLE_INTERMEDIATE.C
-│ └── WEEDLE_INTERMEDIATE.exe
+│   ├── WEEDLE_BEGINNER.C
+│   ├── WEEDLE_BEGINNER.exe
+│   ├── WEEDLE_INTERMEDIATE.C
+│   └── WEEDLE_INTERMEDIATE.exe
 ├── EULER/
-│ ├── EULER_ADV.C
-│ ├── EULER_ADV.exe
-│ └── EULER_SIMPLIFIED.C
+│   ├── EULER_ADV.C
+│   ├── EULER_ADV.exe
+│   └── EULER_SIMPLIFIED.C
 └── RK_4TH.C
 
 ---
