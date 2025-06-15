@@ -11,44 +11,7 @@
 </div>
 
 
-<<<<<<< HEAD
-### 1. Gaussian Elimination with Partial Pivoting
-```math
-\text{Direct method transforming matrix to upper triangular form:}
-```
-$$
-\begin{aligned}
-\text{Forward Elimination} &: 
-\begin{cases} 
-a_{ij}^{(k)} = a_{ij}^{(k-1)} - m_{ik}a_{kj}^{(k-1)} \\
-m_{ik} = \frac{a_{ik}^{(k-1)}}{a_{kk}^{(k-1)}}
-\end{cases} \\
-\text{Back Substitution} &: x_i = \frac{b_i - \sum_{j=i+1}^n a_{ij}x_j}{a_{ii}}
-\end{aligned}
-$$
-**Features:**
-- Partial pivoting for numerical stability
-- Row operations for precision
-- Backward substitution
 
-**Files:**  
-`GAUSS_ELIMINATION_BEG.C` (Basic) | `GAUSS_ELIMINATION_ADV.C` (With Pivoting)
-
-### 2. Gauss-Seidel Iterative Method
-```math
-\text{Iterative approach with successive updates:}
-```
-$$
-x_i^{(k+1)} = \frac{1}{a_{ii}}\left(b_i - \sum_{j=1}^{i-1}a_{ij}x_j^{(k+1)} - \sum_{j=i+1}^n a_{ij}x_j^{(k)}\right)
-$$
-**Features:**
-- In-place updates
-- Early termination on convergence
-- Diagonal dominance check
-
-=======
-
->>>>>>> 78c9d176e45cb833c44370e609c001fcb7eef8bf
 **Files:**  
 `GAUSS_SEIDAL.C` | `GAUSS_SEIDAL_INTERMEDIATE.C` | `GAUSS_SEIDAL_ADVANCED.C`
 
