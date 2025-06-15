@@ -1,8 +1,4 @@
-Here is your final **fully professional and animated `README.md`** file written entirely in **Markdown (markup language)** for your Numerical Methods in Programming (NMP) repository:
 
----
-
-````markdown
 <!-- TITLE -->
 # 🔢 Numerical Methods in Programming (NMP)
 
