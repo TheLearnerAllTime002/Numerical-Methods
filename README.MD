@@ -8,7 +8,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/TheLearnerAllTime002/Numerical-Methods?style=for-the-badge)
 ![Top language](https://img.shields.io/github/languages/top/TheLearnerAllTime002/Numerical-Methods?style=for-the-badge)
 ![Last commit](https://img.shields.io/github/last-commit/TheLearnerAllTime002/Numerical-Methods?style=for-the-badge)
-![License](https://img.shields.io/github/license/TheLearnerAllTime002/Numerical-Methods?style=for-the-badge)
+![License](https://img.shields.io/github.com/TheLearnerAllTime002/Numerical-Methods/blob/main/LICENSE?style=for-the-badge)
 
 <!-- ANIMATED HEADING -->
 <p align="center">
@@ -94,7 +94,7 @@ NMP/
 ## 📜 License
 
 This repository is licensed under the **MIT License**.
-See the [`LICENSE`](https://github.com/TheLearnerAllTime002/NMP/blob/main/LICENSE) file for details.
+See the [`LICENSE`](https://github.com/TheLearnerAllTime002/Numerical-Methods/blob/main/LICENSE) file for details.
 
 ---
 
