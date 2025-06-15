@@ -5,19 +5,23 @@
 > 💡 A comprehensive collection of C programs implementing **numerical methods** — categorized into beginner, intermediate, and advanced levels for quick reference and academic use.
 
 <!-- BADGES -->
-![GitHub repo size](https://img.shields.io/github/repo-size/TheLearnerAllTime002/Numerical-Methods?style=for-the-badge)
-![Top language](https://img.shields.io/github/languages/top/TheLearnerAllTime002/Numerical-Methods?style=for-the-badge)
-![Last commit](https://img.shields.io/github/last-commit/TheLearnerAllTime002/Numerical-Methods?style=for-the-badge)
+<div align="center">
+  <img src="https://img.shields.io/github/repo-size/TheLearnerAllTime002/Numerical-Methods?style=flat-square&color=blueviolet" alt="Repo Size">
+  <img src="https://img.shields.io/github/languages/top/TheLearnerAllTime002/Numerical-Methods?style=flat-square&color=important" alt="Top Language">
+  <img src="https://img.shields.io/github/last-commit/TheLearnerAllTime002/Numerical-Methods?style=flat-square&color=success" alt="Last Commit">
+  <img src="https://img.shields.io/github/license/TheLearnerAllTime002/Numerical-Methods?style=flat-square" alt="License">
+</div>
 
+<br>
 
 <!-- ANIMATED HEADING -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=32CD32&center=true&vCenter=true&width=800&lines=🚀+Welcome+to+Numerical+Methods+Repository;💻+Explore+C+programs+for+every+numerical+technique;🎓+Ideal+for+students%2C+engineers+%26+educators!" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=32CD32&center=true&vCenter=true&width=800&lines=🚀+Welcome+to+Numerical+Methods+Repository;💻+Explore+C+programs+for+every+numerical+technique;🎓+Ideal+for+students%2C+engineers+%26+educators!" alt="Typing SVG">
+</div>
 
 ---
 
-## 📁 Project Structure
+## 📂 Project Structure
 
 ```bash
 NMP/
@@ -31,98 +35,80 @@ NMP/
 │   ├── NB_BEGINNER.C
 │   ├── NB_BEGINNER.exe
 │   └── NB_INTERMEDIATE.C
-├── NEWTON FORWARD INTERPOLATION/
-│   ├── NF_BEGINNER.C
-│   └── NF_BEGINNER.exe
-├── NEWTON_RAPHSON/
-│   ├── NR_INTERMEDIATE.C
-│   ├── NR_INTERMEDIATE.exe
-│   ├── NR_IG_BEG.C
-│   ├── NR_INTERVAL_ADV.C
-│   ├── NR_INTERVAL_BEG.C
-│   └── NR_INTERVAL_INTERMEDIATE.C
-├── REGULA FALSI/
-│   ├── REGULA_FALSI_BEGINNER.C
-│   ├── REGULA_FALSI_BEGINNER.exe
-│   └── REGULA_FALSI_INTERMEDIATE.C
-├── SIMPSON_1_3TH RULE/
-│   ├── SIMP_1_3_INTERMEDIATE.C
-│   └── SIMP_1_3_INTERMEDIATE.exe
-├── SOLUTION OF LINEAR EQUATION/
-│   ├── GAUSS_ELIMINATION_ADV.C
-│   ├── GAUSS_ELIMINATION_BEG.C
-│   ├── GAUSS_ELIMINATION_BEG.exe
-│   ├── GAUSS_SEIDAL_INTERMEDIATE.C
-│   ├── GAUSS_SEIDAL.C
-│   └── GAUSS_SEIDAL_ADVANCED.C
-├── TRAPEZOIDAL METHOD/
-│   ├── TRAPEZOIDAL_BEGINNER.C
-│   ├── TRAPEZOIDAL_BEGINNER.exe
-│   ├── TRAPEZOIDAL_INTERMEDIATE.C
-│   └── TRAPEZOIDAL_INTERMEDIATE.exe
-├── WEEDLE'S RULE/
-│   ├── WEEDLE_BEGINNER.C
-│   ├── WEEDLE_BEGINNER.exe
-│   ├── WEEDLE_INTERMEDIATE.C
-│   └── WEEDLE_INTERMEDIATE.exe
-├── EULER/
-│   ├── EULER_ADV.C
-│   ├── EULER_ADV.exe
-│   └── EULER_SIMPLIFIED.C
-└── RK_4TH.C
-````
+└── ... (other directories)
+```
 
 ---
 
-## 📌 Features
+## 🌈 Features
 
-* ✅ Structured into **modules** and **levels** (beginner → advanced)
-* ✅ Includes both **source code (.c)** and **compiled binaries (.exe)**
-* ✅ Great for **academic learning**, **practical labs**, and **projects**
-* ✅ Ready to use, adapt, and extend
+<div align="center">
+
+| Category        | Benefits                                                                 |
+|-----------------|--------------------------------------------------------------------------|
+| **Structured**  | Organized into modules and difficulty levels                             |
+| **Ready-to-Use**| Includes both source code and compiled binaries                          |
+| **Educational** | Perfect for academic learning and practical labs                         |
+| **Extensible**  | Easy to adapt and build upon for projects                               |
+
+</div>
 
 ---
 
-## 🛠 Technologies Used
+## 🛠 Tech Stack
 
-* C Language (GCC Compiler)
-* Git & GitHub
-* Markdown (for documentation)
+<div align="center">
+
+```mermaid
+graph LR
+    A[C Language] --> B[GCC Compiler]
+    A --> C[Git & GitHub]
+    A --> D[Markdown Documentation]
+```
+
+</div>
 
 ---
 
 ## 📜 License
 
-This repository is licensed under the **MIT License**.
-See the [`LICENSE`](https://github.com/TheLearnerAllTime002/Numerical-Methods/blob/main/LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🌟 How to Contribute
+## 🤝 How to Contribute
 
-Want to improve this repo?
-
-1. Fork it 🍴
-2. Clone it locally
-3. Create your feature branch (`git checkout -b feature-xyz`)
-4. Commit your changes ✅
-5. Push to the branch 🚀
-6. Open a Pull Request
+1. 🍴 Fork the repository
+2. 📥 Clone locally: `git clone https://github.com/your-username/Numerical-Methods.git`
+3. 🌿 Create your feature branch: `git checkout -b feature/amazing-feature`
+4. 💾 Commit your changes: `git commit -m 'Add some amazing feature'`
+5. 🚀 Push to the branch: `git push origin feature/amazing-feature`
+6. 🔄 Open a Pull Request
 
 ---
 
-## 🤝 Connect With Me
+## 📬 Connect With Me
 
-* GitHub: [TheLearnerAllTime002](https://github.com/TheLearnerAllTime002)
-* LinkedIn: *[Arjun Mitra](https://www.linkedin.com/in/arjun-mitra-2761a9260)*
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheLearnerAllTime002)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-mitra-2761a9260)
+
+</div>
 
 ---
 
-> 🔍 *Star this repo if you find it useful. Contributions are welcome!*
+## ✨ Final Quote
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=🚀+In+mathematics,+you+don't+understand+things...;🧠+...you+just+get+used+to+them+-+John+von+Neumann" alt="Inspirational Quote">
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://profile-counter.glitch.me/TheLearnerAllTime002_Numerical-Methods/count.svg" alt="Visitor Count">
+  <br>
+  <p>⭐️ Star this repo if you find it useful!</p>
+</div>
 ```
-
-
-
-
 
