@@ -89,10 +89,6 @@ interpolation/
 
 1. Burden & Faires, "Numerical Analysis" (9th Ed.)
 2. Stoer & Bulirsch, "Introduction to Numerical Analysis"
-3. [Wolfram MathWorld - Polynomial Interpolation](https://mathworld.wolfram.com/PolynomialInterpolation.html)
 
-<div align="center">
-  <img src="https://render.githubusercontent.com/render/math?math=\color{green}\boxed{\text{Happy\ Interpolating!}}" alt="Happy Interpolating">
-</div>
 ```
 
