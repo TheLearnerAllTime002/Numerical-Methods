@@ -5,10 +5,10 @@
 > 💡 A comprehensive collection of C programs implementing **numerical methods** — categorized into beginner, intermediate, and advanced levels for quick reference and academic use.
 
 <!-- BADGES -->
-![GitHub repo size](https://img.shields.io/github/repo-size/TheLearnerAllTime002/NMP?style=for-the-badge)
-![Top language](https://img.shields.io/github/languages/top/TheLearnerAllTime002/NMP?style=for-the-badge)
-![Last commit](https://img.shields.io/github/last-commit/TheLearnerAllTime002/NMP?style=for-the-badge)
-![License](https://img.shields.io/github/license/TheLearnerAllTime002/NMP?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/TheLearnerAllTime002/Numerical-Methods?style=for-the-badge)
+![Top language](https://img.shields.io/github/languages/top/TheLearnerAllTime002/Numerical-Methods?style=for-the-badge)
+![Last commit](https://img.shields.io/github/last-commit/TheLearnerAllTime002/Numerical-Methods?style=for-the-badge)
+![License](https://img.shields.io/github/license/TheLearnerAllTime002/Numerical-Methods?style=for-the-badge)
 
 <!-- ANIMATED HEADING -->
 <p align="center">
@@ -122,7 +122,6 @@ Want to improve this repo?
 
 ```
 
----
 
 ### ✅ NEXT STEPS (Important):
 
@@ -137,7 +136,5 @@ Want to improve this repo?
   3. Choose **"C"** as the template (click the small dropdown in upper-right)
   4. Commit directly to `main`
 
----
 
-Let me know if you want this as a downloadable `.md` file or want help with `.gitignore`, badges, or pushing changes via CLI.
-```
+
