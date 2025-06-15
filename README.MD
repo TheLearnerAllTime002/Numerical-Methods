@@ -123,18 +123,6 @@ Want to improve this repo?
 ```
 
 
-### ✅ NEXT STEPS (Important):
-
-- **To fix the badges:**
-  - Ensure your repo name is exactly `NMP`
-  - Replace `"TheLearnerAllTime002"` with your actual GitHub username if not correct
-  - Push the `LICENSE` file to the root of the repo
-
-- **To add `.gitignore`:**
-  1. Go to your repo → click **Add file** → **Create new file**
-  2. Name it `.gitignore`
-  3. Choose **"C"** as the template (click the small dropdown in upper-right)
-  4. Commit directly to `main`
 
 
 
