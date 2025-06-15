@@ -71,11 +71,11 @@ int main() {
 
 ## 📊 Method Comparison
 
-| Method          | Convergence Rate | Requires Derivative | Interval Needed | Stability |
-|-----------------|------------------|---------------------|------------------|-----------|
-| Bisection       | Linear (1/2)     | No                  | Yes              | High      |
-| Newton-Raphson  | Quadratic        | Yes                 | No               | Medium    |
-| Regula Falsi    | Superlinear      | No                  | Yes              | High      |
+| Method          | Convergence Rate | Requires Derivative | Interval Needed | Stability | Best For |
+|-----------------|------------------|---------------------|------------------|-----------|----------|
+| Bisection       | Linear           | No                  | Yes              | High      | General functions |
+| Newton-Raphson  | Quadratic        | Yes                 | No               | Medium    | Smooth functions with known derivatives |
+| Regula Falsi    | Superlinear      | No                  | Yes              | High      | Functions with slow derivatives |
 
 ## 📁 File Structure
 
@@ -85,10 +85,10 @@ root-finding/
 │   ├── BISECTION_BEGINNER.C
 │   └── BISECTION_INTERMEDIATE.C
 ├── Newton-Raphson/
-│   ├── NR_IG_BEG.C (Initial Guess)
-│   ├── NR_INTERMEDIATE.C
-│   ├── NR_INTERVAL_BEG.C
-│   └── NR_INTERVAL_INTERMEDIATE.C
+│   ├── NR_IG_BEG.C          // Initial guess version
+│   ├── NR_INTERMEDIATE.C    // Improved implementation
+│   ├── NR_INTERVAL_BEG.C    // Interval-based beginner
+│   └── NR_INTERVAL_INTERMEDIATE.C  // Advanced interval
 └── Regula_Falsi/
     ├── REGULA_FALSI_BEGINNER.C
     └── REGULA_FALSI_INTERMEDIATE.C
@@ -102,26 +102,14 @@ root-finding/
 3. Function value: $|f(x_n)| < \epsilon$
 
 **Convergence Conditions:**
-- Bisection: Requires $f(a)f(b) < 0$
-- Newton: Needs good initial guess and $f' \neq 0$
-- Regula Falsi: Preserves bracketing property
+- Bisection: Requires $f(a)f(b) < 0$ (Intermediate Value Theorem)
+- Newton: Requires $f \in C^2$ and good initial estimate $x_0$
+- Regula Falsi: Maintains bracketing of root throughout iterations
 
 ## 📚 References
 
 1. Atkinson (1988), *An Introduction to Numerical Analysis*
 2. Quarteroni et al. (2007), *Numerical Mathematics*
+3. Burden & Faires (2010), *Numerical Analysis*
 
 
-<div align="center">
-  <img src="https://render.githubusercontent.com/render/math?math=\color{red}\boxed{\text{Convergence\ =\ Confidence}}" alt="Convergence = Confidence">
-</div>
-```
-
-Key Features:
-1. **Mathematically Precise**: All algorithms presented with their governing equations
-2. **Comparative Analysis**: Clear table comparing method characteristics
-3. **Ready-to-Run Example**: Practical usage demonstration
-4. **Error Analysis**: Each method includes convergence rate and error bounds
-5. **Structured Layout**: Organized file structure visualization
-6. **Theoretical Foundation**: Notes on stopping criteria and convergence conditions
-7. **Professional Badges**: Standardized metadata indicators
