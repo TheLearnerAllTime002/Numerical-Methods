@@ -110,7 +110,8 @@ graph LR
 ## 📊 Method Distribution
 
 ```mermaid
-pie title Numerical Methods Coverage
+pie showData
+    title Numerical Methods Coverage
     "Root Finding" : 8
     "Interpolation" : 6
     "Numerical Integration" : 7
