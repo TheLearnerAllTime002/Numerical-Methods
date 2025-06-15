@@ -108,13 +108,14 @@ graph LR
 ---
 
 ## 📊 Method Distribution
-pie
-    title Numerical Methods Coverage
+
+```mermaid
+pie title Numerical Methods Coverage
     "Root Finding" : 8
     "Interpolation" : 6
-    "Integration" : 7
+    "Numerical Integration" : 7
     "Linear Equations" : 5
-    "Differential Eqs" : 3
+    "Differential Equations" : 3
 
 ---
 
