@@ -107,19 +107,6 @@ graph LR
 
 ---
 
-## 📊 Method Distribution
-
-```mermaid
-pie showData
-    title Numerical Methods Coverage
-    "Root Finding" : 8
-    "Interpolation" : 6
-    "Numerical Integration" : 7
-    "Linear Equations" : 5
-    "Differential Equations" : 3
-
----
-
 ## 📜 License
 
 MIT Licensed - See [LICENSE](LICENSE) for details.
