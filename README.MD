@@ -8,7 +8,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/TheLearnerAllTime002/Numerical-Methods?style=for-the-badge)
 ![Top language](https://img.shields.io/github/languages/top/TheLearnerAllTime002/Numerical-Methods?style=for-the-badge)
 ![Last commit](https://img.shields.io/github/last-commit/TheLearnerAllTime002/Numerical-Methods?style=for-the-badge)
-![License](https://img.shields.io/github.com/TheLearnerAllTime002/Numerical-Methods/blob/main/LICENSE?style=for-the-badge)
+
 
 <!-- ANIMATED HEADING -->
 <p align="center">
