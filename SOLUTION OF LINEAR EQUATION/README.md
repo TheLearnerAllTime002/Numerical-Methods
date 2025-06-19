@@ -100,11 +100,4 @@ linear-solvers/
 2. Saad (2003), *Iterative Methods for Sparse Linear Systems* (2nd Ed.)
 3. Demmel (1997), *Applied Numerical Linear Algebra*
 
-<<<<<<< HEAD
-<div align="center">
-  <img src="https://render.githubusercontent.com/render/math?math=\color{blue}\boxed{\text{Accuracy\ =\ Good\ Algorithm\ +\ Good\ Implementation}}" alt="Accuracy Equation">
-  <br>
-  <img src="https://profile-counter.glitch.me/linear-solver-repo/count.svg" alt="Visitor Count">
-</div>
-=======
->>>>>>> 23ccb0bbceea12c36ec209561dfe98b7269e44f3
+
